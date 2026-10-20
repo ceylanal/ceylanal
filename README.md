@@ -1,43 +1,27 @@
-# Hi, I'm Ali Salih Ceylan 👋
+# Ali Salih Ceylan
 
-I am a fourth-year Management Engineering student at Istanbul Technical University, building products at the intersection of software, data, business, and applied AI.
+**Software, data products & applied AI**
 
-## Current Focus
+I study Management Engineering at Istanbul Technical University and build tools that connect business problems with software and data. My current work focuses on company research, public-disclosure monitoring, and practical AI systems.
 
-I am building a production-oriented AI engineering portfolio around a company intelligence platform.
+## Selected projects
 
-The portfolio will cover:
+| Project | What I’m building | Technologies |
+| --- | --- | --- |
+| [Company Intelligence GraphRAG](https://github.com/ceylanal/company-intelligence-graphrag) | Research over BIST company reports using vector search, knowledge graphs, and source-linked answers. | Python · Qdrant · Neo4j · FastAPI |
+| [KAP Bildirim](https://github.com/ceylanal/kap-bildirim) | Public-disclosure monitoring with persistent alert queues, Telegram/email delivery, and deterministic event-priority rules. | Python · SQLite · systemd |
+| [NutriTrack](https://github.com/ceylanal/NutriTrack) | A nutrition-management prototype with dietitian, client, assistant, and admin dashboards. | React · TypeScript · Supabase |
+| [WhoIsSpy](https://github.com/ceylanal/WhoIsSpy) | A shared-device social deduction game with role reveals, a timer, voting, and Turkish/English support. | Next.js · TypeScript · Supabase |
 
-- GraphRAG
-- LLM evaluations
-- Durable multi-agent systems
-- Resilient LLM infrastructure
-- Automated red teaming
-- Task-specific fine-tuning
+## Products
 
-## Featured Project
+- **[EkipLab](https://ekiplab.com)** — a SaaS platform for periodic equipment-inspection operations.
+- **[univeriler.com](https://univeriler.com)** — university rankings, accreditation information, and preference research for Türkiye.
 
-### Company Intelligence GraphRAG
+## Technical interests
 
-A hybrid GraphRAG system combining vector search and a knowledge graph for citation-grounded, multi-hop company research.
+Python · SQL · TypeScript · React / Next.js · PostgreSQL · RAG · AI agents · LLM evaluation · Reliable delivery systems
 
-[View the repository](https://github.com/ceylanal/company-intelligence-graphrag)
+I’m particularly interested in making systems measurable and reproducible: clear evidence, explicit limitations, useful tests, and operations that survive interruptions.
 
-## Existing Products
-
-### EkipLab
-
-A multi-tenant SaaS platform that digitizes periodic equipment-inspection operations for engineering firms.
-
-### univeriler.com
-
-A data-driven platform that centralizes ranking, global-standing, and accreditation information for universities across Türkiye.
-
-## Technical Interests
-
-Python · SQL · TypeScript · Next.js · PostgreSQL · FastAPI · RAG · AI Agents · LLMOps · Evaluation · AI Safety
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/alisalihceylan
-- Email: alisalihcyln@gmail.com
+[LinkedIn](https://www.linkedin.com/in/alisalihceylan) · [Email](mailto:alisalihcyln@gmail.com)
